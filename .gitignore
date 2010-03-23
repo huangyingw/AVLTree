@@ -1,3 +1,13 @@
 *.ncb
 *.old
 *.bak
+AVLTree/Debug/AVLTree.obj
+AVLTree/Debug/AVLTree.pch
+AVLTree/Debug/BuildLog.htm
+AVLTree/Debug/mt.dep
+AVLTree/Debug/stdafx.obj
+AVLTree/Debug/vc90.idb
+AVLTree/Debug/vc90.pdb
+Debug/AVLTree.exe
+Debug/AVLTree.ilk
+Debug/AVLTree.pdb
