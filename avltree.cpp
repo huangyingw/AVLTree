@@ -1,6 +1,6 @@
 #include "avltree.h"
 
-int _tmain(int argc, _TCHAR* argv[])
+int main()
 {
 	AVLTree *avlTree=new AVLTree();
 	int taller=1;

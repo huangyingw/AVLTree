@@ -1,6 +1,6 @@
-run : string.o
-	g++ -o run string.o
-string.o : string.cpp string.h
-	g++ -c string.cpp
+run : avltree.o
+	g++ -o run avltree.o
+avltree.o : avltree.cpp avltree.h
+	g++ -c avltree.cpp
 clean :
-	rm run string.o
+	rm run avltree.o

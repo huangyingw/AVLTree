@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-#include "D:\myproject\git\c_c++\windows\data_structure\cirQueue\CirQueue.h"
+#include "/media/myproject/git/c_c++/linux/data_structure/cirQueue/CirQueue.h"
 
 class AVLNode
 {
